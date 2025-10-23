@@ -61,9 +61,10 @@
 #banner img {
   height: 100%;
   width: fit-content;
+  transform: translateX(-7%);
 }
 
-.shape {
+/* .shape {
   background-color: var(--color-primary-2);
   position: absolute;
   width: 150px;
@@ -81,10 +82,22 @@
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   bottom: 50px;
-  left: 665px;
+  left: 650px;
   z-index: 0;
   opacity: 0.5;
 }
+
+.shape3 {
+  background-color: var(--color-primary-2);
+  position: absolute;
+  width: 150px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  bottom: 460px;
+  left: 715px;
+  z-index: 10;
+  opacity: 1;
+} */
 
 @media screen and (max-width: 1170px) {
   #home {
