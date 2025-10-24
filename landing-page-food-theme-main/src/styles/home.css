@@ -61,7 +61,7 @@
 #banner img {
   height: 100%;
   width: fit-content;
-  transform: translateX(-7%);
+  transform: translateX(8%);
 }
 
 /* .shape {
@@ -73,9 +73,9 @@
   top: 1rem;
   right: 50px;
   z-index: 1;
-}
+} */
 
-.shape2 {
+/* .shape2 {
   background-color: var(--color-primary-2);
   position: absolute;
   width: 150px;

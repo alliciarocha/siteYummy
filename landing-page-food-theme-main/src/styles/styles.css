@@ -87,15 +87,45 @@ section {
   font-size: 2.1875rem;
 }
 
-/* Estilo para os novos ícones de navegação (Pesquisa e Carrinho) */
 .nav-icon {
-  font-size: 20px; /* Ajuste o tamanho do ícone */
-  color: var(--color-text); /* Use a cor do texto padrão da sua nav */
-  margin: 0 15px; /* Adiciona algum espaço entre os ícones e o botão */
+  font-size: 20px;
+  color: var(--color-text);
+  margin: 0 15px;
   transition: opacity 0.3s;
-  text-decoration: none; /* Remove sublinhado se houver */
+  text-decoration: none;
 }
 
 .nav-icon:hover {
-  opacity: 0.7; /* Efeito ao passar o mouse */
+  opacity: 0.7;
+}
+
+#nav_icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 20px;
+}
+
+#nav_icons .icon-link {
+  display: flex;
+  color: var(--color-primary-6);
+  font-size: 1.2rem;
+  transition: color 0.3s;
+}
+
+#nav_icons .icon-link:hover {
+  color: var(--color-tertiary);
+}
+
+#mobile_nav_icons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 15px 0;
+  border-top: 1px solid var(--color-gray);
+}
+
+#mobile_nav_icons .icon-link {
+  color: var(--color-secondary);
+  font-size: 1.5rem;
 }
