@@ -64,6 +64,17 @@
   transform: translateX(8%);
 }
 
+.shape {
+  background-color: var(--color-primary-2);
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  border-radius: 40% 30% 0% 20%;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
 /* .shape {
   background-color: var(--color-primary-2);
   position: absolute;

@@ -1,6 +1,6 @@
-# 🍔 Landing Page
+# 🎀 Landing Page – Tema Yummy (Justin Bieber)
 
-Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. Este projeto apresenta um design limpo com animações suaves.
+Uma landing page responsiva inspirada no videoclipe “Yummy” do Justin Bieber 🍓💖, construída com HTML, CSS e JavaScript para uma experiência visual moderna e interativa ✨
 
 ## 🌐 Visualize o projeto:
 
@@ -16,8 +16,6 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 - **Font Awesome**: Ícones
 - **Google Fonts**: Fontes
 
-## 🚀 Como Começar
+## ✒️ Autora
 
-1. Clone ou baixe os arquivos do projeto
-2. Abra o arquivo `index.html` no seu navegador
-3. Não é necessária configuração adicional - todas as dependências são carregadas via CDN
+- 👩‍💻 Allicia Rocha dos Santos 💕
