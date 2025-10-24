@@ -4,7 +4,7 @@ Uma landing page responsiva inspirada no videoclipe “Yummy” do Justin Bieber
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online](https://larissakich.github.io/landing-page-food-theme/)**
+**[Ver Projeto Online](https://alliciarocha.github.io/landing-page-justinbieber-theme/)**
 
 ## 🛠️ Tecnologias Utilizadas
 
